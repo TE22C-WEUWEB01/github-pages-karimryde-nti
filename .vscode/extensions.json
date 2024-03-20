@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "emmanuelbeziat.vscode-great-icons",
+        "Karye.sessionlogger",
+        "Karye.markdox",
+        "eliostruyf.vscode-hide-comments",
+        "alefragnani.project-manager",
+        "chrisdias.vscode-opennewinstance",
+        "ritwickdey.LiveServer"
+    ]
+}
