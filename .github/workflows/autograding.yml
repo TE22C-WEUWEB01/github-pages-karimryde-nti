@@ -1,0 +1,8 @@
+autograding:
+  enabled: true
+  runner: custom
+  script: |
+    ./html_validation.sh
+    ./css_linting.sh
+    npm install cypress
+    npx cypress run --spec "cypress/responsive_test.js"
